@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?logo=amazonaws&logoColor=white) 
 
 
@@ -56,3 +57,6 @@ Here are some ideas to get you started:
 ### Awards
 - CJ SW 창의캠프 베스트 유닛상 (2024.07)
 - CJ SW 창의캠프 베스트 팀워크상 (2024.07)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heessunny&show_icons=true&theme=radical)  
