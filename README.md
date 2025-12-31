@@ -1,4 +1,4 @@
-## heessunny github 👋
+## 안녕하세요! 도전을 즐기는 개발자 김희선입니다. 👋
 
 <!--
 **heessunny/heessunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Introduction🙋‍♀️
 
-안녕하세요! 도전을 즐기는 개발자 김희선입니다.
 
 
 ### Experiences💻
-
 - 신한투자증권 프로 디지털 아카데미 7기(2025.12 - 진행 중 )
 - UMC 앱/웹 런칭 동아리 8기 교내 부회장  (2025.03 - 2025.08)
 - UMC 앱/웹 런칭 동아리 7기 교내 리더 / SpringBoot 챌린저 (2024.09 - 2025.02)
@@ -61,8 +58,14 @@ Here are some ideas to get you started:
 
 
 ### Awards🏆
-
 - CJ SW 창의캠프 베스트 유닛상 (2024.07)
 - CJ SW 창의캠프 베스트 팀워크상 (2024.07)
 
+
+ ### Certificate📜
+ - 정보처리기사 (2025.09)
+ - 네트워크관리사 2급 (2025.09)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heessunny)](https://github.com/anuraghazra/github-readme-stats)
 
