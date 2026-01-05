@@ -68,7 +68,7 @@
 ## 📂 Projects
 
 ### 1. ZipCheck
-> **전세 사기 예방을 위한 계약 단계별 체크리스트 앱**
+> **전세 사기 예방을 위한 매물 위험도 분석 및 신고 서비스**
 
 - **Role**: Backend Developer
 - **Tech**: ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
