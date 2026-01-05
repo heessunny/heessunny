@@ -87,7 +87,6 @@
 - **GitHub**: [Link](https://github.com/TikkleSaver)
 - **Key Features**:
   - **Infra**: AWS S3 버킷 설정 및 이미지 업로드 처리
-  - **Frontend**: 프로젝트 초기 세팅, 공통 헤더/푸터 컴포넌트 구현
   - **Logic**: 챌린지 생성 및 미션 인증 기능 전반(FE/BE) 개발
 
 <br>
@@ -126,7 +125,7 @@
 - **Tech**: ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 - **GitHub**: [Link](https://github.com/BookMoA/Frontend)
 - **Key Features**:
-  - **Library**: 내 독서 리스트(읽은 책/읽고 있는 책) 관리 및 수정/삭제
+  - **Library**: 내 독서 리스트(읽은 책/읽고 있는 책/읽고 싶은 책) 관리 및 수정/삭제
   - **Search**: 알라딘 API 연동을 통한 도서(제목/저자) 검색 기능
   - **Recommendation**: 인기 도서 Top 10 및 추천 도서 UI 구현
 
