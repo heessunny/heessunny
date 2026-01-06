@@ -119,30 +119,6 @@
   - 수강 중인 강의/스터디 목록 및 공지사항, 과제 전체 보기
   - 후기 작성(Review) 기능 구현
 
-<br>
-
-### 5. 책모아 (BookMoA)
-> **흩어진 독서 기록을 한눈에 모아보는 독서 관리 앱**
-
-- **Role**: Android Developer (Frontend)
-- **Tech**: ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-- **GitHub**: [Link](https://github.com/BookMoA/Frontend)
-- **Key Features**:
-  - **Library**: 내 독서 리스트(읽은 책/읽고 있는 책/읽고 싶은 책) 관리 및 수정/삭제
-  - **Search**: 알라딘 API 연동을 통한 도서(제목/저자) 검색 기능
-  - **Recommendation**: 인기 도서 Top 10 및 추천 도서 UI 구현
-
-<br>
-
-### 6. 동네형 (Fitness Bro)
-> **운동 메이트 매칭 및 소통을 위한 피트니스 웹 서비스**
-
-- **Role**: Frontend Developer (Web)
-- **Tech**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-- **GitHub**: [Link](https://github.com/fitness-bro/Frontend.git)
-- **Key Features**:
-  - 회원가입/정보수정 및 마이페이지 UI 구현
-  - 실시간 채팅방 리스트 및 채팅 화면 인터페이스 개발
 
 <br>
 
