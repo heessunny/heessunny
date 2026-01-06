@@ -1,16 +1,19 @@
 <div>
 
   ## Hi 👋, I'm HEESUN !
+  <br>
 
-  백엔드 개발과 인프라 구축에 관심을 가지고 성장하고 있습니다.
+  ### 💡 Final Vocabulary : 적재적소
+
+  백엔드 개발과 인프라 구축에 관심을 가지고 성장하고 있습니다.<p/>
+  무조건 유행하는 기술을 쓰는 게 아니라, 상황에 맞는 최적의 기술을 판단할 줄 아는 엔지니어가 되고싶습니다.
 
   <br>
 
-  ### 🛠 Tech Stack
+  ## 🛠 Tech Stack
 
   **Frontend**<br>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
 
   **Backend**<br>
@@ -140,6 +143,16 @@
 - **Key Features**:
   - 회원가입/정보수정 및 마이페이지 UI 구현
   - 실시간 채팅방 리스트 및 채팅 화면 인터페이스 개발
+
+<br>
+
+## ⚾️ 취미
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/60f96642-c9e1-4c60-8d65-632ba326815e" />
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/baced029-7e52-4919-af02-82f28e01ae08" />
+
+
 
 <br>
 
