@@ -122,14 +122,4 @@
 
 <br>
 
-## ⚾️ 취미
-
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/60f96642-c9e1-4c60-8d65-632ba326815e" />
-
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/baced029-7e52-4919-af02-82f28e01ae08" />
-
-
-
-<br>
-
 </div>
